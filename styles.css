@@ -24,7 +24,7 @@ body {
     display: flex;
     width: auto;
     justify-content: space-between;
-    background: rgba(255, 255, 255, 0.048);
+    background: rgba(163, 222, 143, 0.048);
     padding: 20px;
     border: solid black 5px;
     border-radius: 10px;
@@ -53,7 +53,7 @@ body {
     align-items: center;
     width: 200px;
     height: 60px;
-    background-color: rgba(0, 255, 255, 0.507);
+    background-color: rgba(41, 139, 30, 0.507);
     color: black;
     font-size: x-large;
     border: 1px solid black;
